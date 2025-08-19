@@ -12,7 +12,6 @@ Focused on **Core Java | Advanced Java | Java 8 | Spring Boot | MySQL | Oracle**
 - 🌱 Learning **Spring Boot, REST APIs, and Microservices**.  
 - 💬 Ask me about **Core Java, JDBC, OOPs, and backend development**.  
 - 🤝 Looking to collaborate on **Java + Database full-stack projects**.  
-- 📫 Reach me at: (kashimshettypravalika890@gmail.com)  
 
 ---
 ## 🔗 Connect with me  
