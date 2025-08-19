@@ -17,20 +17,6 @@ Focused on **Core Java | Advanced Java | Java 8 | Spring Boot | MySQL | Oracle**
 ---
 
 ## 🌐 Connect with me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/pravalika-kashimshetty" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/Pravalika19-11" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://leetcode.com/your-leetcode-username" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" width="40" height="40"/>
-  </a>
-</p>
-
-
-## 🌐 Connect with me  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pravalika-kashimshetty" target="_blank">
