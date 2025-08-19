@@ -3,9 +3,6 @@
 🌟 Aspiring **Java Backend Developer** passionate about building scalable and efficient applications.  
 Focused on **Core Java | Advanced Java | Java 8 | Spring Boot | MySQL | Oracle**.  
 
-![Profile views](https://komarev.com/ghpvc/?username=Pravalika19-11&color=blue)
-
----
 
 ## 👩‍💻 About Me
 - 🔭 Currently working on **Java-based projects** like ATM Simulator, OTP Generator, and Weather Dashboard.  
@@ -13,7 +10,7 @@ Focused on **Core Java | Advanced Java | Java 8 | Spring Boot | MySQL | Oracle**
 - 💬 Ask me about **Core Java, JDBC, OOPs, and backend development**.  
 - 🤝 Looking to collaborate on **Java + Database full-stack projects**.  
 
----
+
 ## 🔗 Connect with me  
 
 <p align="left">
