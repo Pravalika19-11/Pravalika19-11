@@ -15,8 +15,7 @@ Focused on **Core Java | Advanced Java | Java 8 | Spring Boot | MySQL | Oracle**
 - 📫 Reach me at: (kashimshettypravalika890@gmail.com)  
 
 ---
-
-## 🌐 Connect with me  
+## 🔗 Connect with me  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pravalika-kashimshetty" target="_blank">
@@ -30,7 +29,8 @@ Focused on **Core Java | Advanced Java | Java 8 | Spring Boot | MySQL | Oracle**
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ Languages and Tools
+
 <p align="left"> 
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
